@@ -92,7 +92,7 @@
                         type="button" onClick={() => signIn("github")}><FaGithub />
                     <p>Sign up with GitHub</p></button>
                     <button  className="border-2 w-full text-white bg-black pt-3 pb-2 mt-3 mb-2 rounded-md flex items-center justify-center space-x-1" 
-                        type="button" onClick={() => signIn("google")}><FaGoogle/><p>Sign up with Google</p></button>
+                        type="button" onClick={() => signIn("google")}><FaGoogle/><p>Sign Up With Google</p></button>
                     
             </form>
 
