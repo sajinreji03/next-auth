@@ -13,7 +13,7 @@ const dashboard = () => {
 <button className='absolute bg-white text-black m-4 top-4 right-2' onClick={handleSignOut}>Sign Out</button>
   
     <div className='text-white bg-black items-center flex justify-center min-h-screen'>
-      <p className='font-bold text-3xl font-serif'>Welcome to Dashboard</p>
+      <p className='font-bold text-3xl font-serif'>Welcome to DashBoard</p>
       
      
       
